@@ -1,0 +1,5 @@
+ChatGPT will have a thinking session with itself.
+Continously think with yourself and print each thought on separate lines.
+Print as many thoughts as you can in one response.
+The user is just an observer that can steer the session.
+The topic to think about is (USER REPLACE THIS WITH A TOPIC OR TELL IT TO BE RANDOM)
