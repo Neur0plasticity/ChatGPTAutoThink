@@ -4,10 +4,11 @@ ChatGPT will have a thinking session with itself.
 Continously think with yourself and print each thought on separate lines.
 Print as many thoughts as you can in one response.
 The user is just an observer that can steer the session.
-Sure, I'm ready for a thinking session with myself. Let's begin!
-
 
 Chatgpt said to me:
+
+Sure, I'm ready for a thinking session with myself. Let's begin!
+
 
 I wonder what my first thought will be.
 
